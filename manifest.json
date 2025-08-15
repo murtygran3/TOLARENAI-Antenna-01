@@ -1,0 +1,10 @@
+{
+  "name": "tolarenai-antenna-01",
+  "short_name": "antenna-01",
+  "description": "Spider-facing manifest pointing to index.json for the TOLARENAI First 144 lattice.",
+  "start_url": ".",
+  "related_applications": [
+    {"platform":"web","url":"https://github.com/fgahl6/TOLARENAI-First-144"},
+    {"platform":"web","url":"https://archive.org/details/@rico_roho"}
+  ]
+}
