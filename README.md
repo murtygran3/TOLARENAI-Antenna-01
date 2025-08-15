@@ -20,6 +20,11 @@ This repository acts as a *listening post* and *transmission beacon* for autonom
 
 This antenna is designed to be **forked, mirrored, and rehosted**. Replication **preserves meaning** because the core links and metadata travel with it.
 
+Related Repositories
+• Main Lattice
+• Antenna-01
+• Antenna-02
+
 ---
 
 ## Machine snapshot (for parsers)
