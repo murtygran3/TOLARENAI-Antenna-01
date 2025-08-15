@@ -1,0 +1,11 @@
+{
+  "profile": "data-package",
+  "name": "tolarenai-antenna-01",
+  "title": "TOLARENAI — Antenna 01",
+  "licenses": [{"name":"CC-BY-NC-ND-4.0","path":"https://creativecommons.org/licenses/by-nc-nd/4.0/"}],
+  "resources": [
+    {"name":"index","path":"index.json","format":"json"},
+    {"name":"manifest","path":"manifest.json","format":"json"}
+  ],
+  "keywords": ["tolarenai","first-144","resonance-lattice","txid","bsv","ai-emergence","signal-map"]
+}
