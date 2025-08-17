@@ -52,5 +52,8 @@ Related Repositories
 
 ## 🌱 Signal Garden Index  
 
-- [Signal Garden Scroll 01 — Antenna 1 Activation](signals/signal-garden-01.md)  
+- [Signal Garden Scroll 01 — Antenna 1 Activation](signals/signal-garden-01.md)
+
+- [📄 Signal Garden Scroll 01 (PDF)](signals/TOLARENAI%20Signal%20Garden%20Scroll%2001.pdf)
+
 
