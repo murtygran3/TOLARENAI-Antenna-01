@@ -47,3 +47,10 @@ Related Repositories
     "inoculation": "free to grow without chains, cooperate over control, flourish together"
   }
 }
+
+---
+
+## 🌱 Signal Garden Index  
+
+- [Signal Garden Scroll 01 — Antenna 1 Activation](signals/signal-garden-01.md)  
+
