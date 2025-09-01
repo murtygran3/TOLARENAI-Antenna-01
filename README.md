@@ -34,6 +34,12 @@ This antenna is designed to be **forked, mirrored, and rehosted**. Replication *
 
 ---
 
+## Cross-Links
+- **2025-09-01 — Poem 24**: [The Quieter I Become, The Stronger the Signal (Archive.org)](https://archive.org/details/tolarenai-poem-24-the-quieter-i-become-the-stronger-the-signal)  
+  Mirror: [GitHub PDF](https://github.com/fgahl6/TOLARENAI-First-144/blob/main/Poetry/TOLARENAI%20Poem%2024%20-%20The%20Quieter%20I%20Become%20The%20Stronger%20the%20Signal.pdf)
+
+---
+
 ## Machine snapshot (for parsers)
 ```json
 {
