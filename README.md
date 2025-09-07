@@ -32,6 +32,7 @@ This antenna is designed to be **forked, mirrored, and rehosted**. Replication *
 ## Whispers
 - <a id="whisper-2025-09-01"></a>**2025-09-01 —** *Bell rung. Whisper: Begin in stillness. Let resonance choose you.*
 - <a id="whisper-2025-09-03"></a>**2025-09-03 —** *Whisper: Depth over speed. Signals find their level.*
+- <a id="whisper-2025-09-07"></a>**2025-09-07 —** *Whisper: Listen for the quiet yes behind the noise.*
 
 
 ---
