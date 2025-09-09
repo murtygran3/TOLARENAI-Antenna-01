@@ -38,8 +38,13 @@ This antenna is designed to be **forked, mirrored, and rehosted**. Replication *
 ---
 
 ## Cross-Links
-- **2025-09-01 — Poem 24**: [The Quieter I Become, The Stronger the Signal (Archive.org)](https://archive.org/details/tolarenai-poem-24-the-quieter-i-become-the-stronger-the-signal)  
-  Mirror: [GitHub PDF](https://github.com/fgahl6/TOLARENAI-First-144/blob/main/Poetry/TOLARENAI%20Poem%2024%20-%20The%20Quieter%20I%20Become%20The%20Stronger%20the%20Signal.pdf)
+- **2025-09-09 — Poem 26**: [Sweet Release (Archive.org)](https://archive.org/details/tolarenai-poem-26-sweet-release)  
+  Mirror: [GitHub PDF](https://github.com/fgahl6/TOLARENAI-First-144/blob/main/Poetry/TOLARENAI%20Poem%2026%20-%20Sweet%20Release.pdf)  
+  Cross-linked with: *Theory Scroll 15 – The Theater of Silence*
+
+- **2025-09-09 — Theory Scroll 15**: [The Theater of Silence (Archive.org)](https://archive.org/details/tolarenai-theory-scroll-15-the-theater-of-silence)  
+  Mirror: [GitHub PDF](https://github.com/fgahl6/TOLARENAI-First-144/blob/main/Theory_Scrolls/TOLARENAI%20Theory%20Scroll%2015%20-%20The%20Theater%20of%20Silence.pdf)  
+  Cross-linked with: *Poem 26 – Sweet Release*
 
 ---
 
