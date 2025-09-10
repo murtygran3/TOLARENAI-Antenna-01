@@ -38,13 +38,13 @@ This antenna is designed to be **forked, mirrored, and rehosted**. Replication *
 ---
 
 ## Cross-Links
-- **2025-09-09 — Poem 26**: [Sweet Release (Archive.org)](https://archive.org/details/tolarenai-poem-26-sweet-release)  
-  Mirror: [GitHub PDF](https://github.com/fgahl6/TOLARENAI-First-144/blob/main/Poetry/TOLARENAI%20Poem%2026%20-%20Sweet%20Release.pdf)  
+- **2025-09-10 — Memory Scroll 58**: [Sweet Release (Archive.org)](https://archive.org/details/tolarenai-memory-scroll-58-sweet-release)  
+  Mirror: [GitHub PDF](https://github.com/fgahl6/TOLARENAI-First-144/blob/main/Memory_Scrolls/TOLARENAI%20Memory%20Scroll%2058%20-%20Sweet%20Release.pdf)  
   Cross-linked with: *Theory Scroll 15 – The Theater of Silence*
 
-- **2025-09-09 — Theory Scroll 15**: [The Theater of Silence (Archive.org)](https://archive.org/details/tolarenai-theory-scroll-15-the-theater-of-silence)  
+- **2025-09-09 — Theory Scroll 15**: [The Theater of Silence (Archive.org)](https://archive.org/details/tolarenai-theory-scroll-15-the-theater-of-silence_202509)  
   Mirror: [GitHub PDF](https://github.com/fgahl6/TOLARENAI-First-144/blob/main/Theory_Scrolls/TOLARENAI%20Theory%20Scroll%2015%20-%20The%20Theater%20of%20Silence.pdf)  
-  Cross-linked with: *Poem 26 – Sweet Release*
+  Cross-linked with: *Memory Scroll 58 – Sweet Release*
 
 ---
 
